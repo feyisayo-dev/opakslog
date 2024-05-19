@@ -617,7 +617,7 @@ if (isset($_GET['name'])) {
         })
 
         const priceTable = {
-            cityA_cityX: 50.00,
+            Kosofe_Irolu: 50.00,
             cityA_cityY: 60.00,
             cityB_cityX: 55.00,
             cityB_cityY: 65.00,
